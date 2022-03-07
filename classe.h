@@ -1,5 +1,0 @@
-#include <ioestream>
-
-class Teste{
-  
-};
