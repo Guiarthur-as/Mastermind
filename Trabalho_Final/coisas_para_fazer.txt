@@ -1,0 +1,8 @@
+- numeros aleatorios cpp
+
+
+
+
+depois:
+- separar diretorios
+- interface gráfica
