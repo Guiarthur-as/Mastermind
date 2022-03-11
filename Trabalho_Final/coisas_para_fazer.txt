@@ -1,0 +1,17 @@
+AGORA:
+- método rodada (início da rodada, comparação, resultado)
+
+PRA FAZER:
+- operador == (implementar na rodada)
+- função roda_jogo(palpites)
+- classe jogo
+- multiplayer
+
+DEPOIS:
+- separar diretorios
+- interface gráfica
+
+PERGUNTAS:
+- classe output
+- classe sem construtor
+- como melhorar comparação
